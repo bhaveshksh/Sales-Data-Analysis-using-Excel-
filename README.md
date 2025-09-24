@@ -43,14 +43,14 @@ Purpose: To analyze and visualize sales data, derive trends, compare performance
 
 📂 How to Use / Explore
 
-# 1. Download the .xlsm file:
+** 1. Download the .xlsm file:
 [bhavesh(excel_project).xlsm][https://docs.google.com/spreadsheets/d/1OsNrOplDecTlXikSWyiVghg_eyaUySRO/edit?usp=sharing&ouid=103253472422656425300&rtpof=true&sd=true]
  
-# 2. Open with Microsoft Excel (desktop version) — macro-enabled works best.
+** 2. Open with Microsoft Excel (desktop version) — macro-enabled works best.
 
-# 3. Enable macros if prompted (for full functionality).
+** 3. Enable macros if prompted (for full functionality).
 
-# 4. Explore the different sheets:
+** 4. Explore the different sheets:
 
   * Raw Data (or similar)
 
@@ -60,7 +60,7 @@ Purpose: To analyze and visualize sales data, derive trends, compare performance
 
 # 5. (If macros present) Use buttons or menu items to run automated tasks like refresh or report generation.
 
-## 🎯 Insights (Expected / Sample)
+# 🎯 Insights (Expected / Sample)
 
   * Top-performing products or regions
 
@@ -70,7 +70,7 @@ Purpose: To analyze and visualize sales data, derive trends, compare performance
 
   * Underperforming categories / potential focus areas
 
-## 🛠 Tips & Notes
+# 🛠 Tips & Notes
 
   * Be cautious when running macros — always keep a backup.
 
@@ -80,18 +80,18 @@ Purpose: To analyze and visualize sales data, derive trends, compare performance
 
   * Document any custom VBA code so future users understand it.
 
-## 🤝 Contribution
+# 🤝 Contribution
 
 Feel free to fork or clone, modify the Excel file, or propose enhancements (better dashboards, additional metrics, improved macros).
 ![image alt](https://github.com/bhaveshksh/Sales-Data-Analysis-using-Excel-/blob/29794fafe5a80bd9274ed1307e3997e9b6d2bd07/Sales%20Dashboard.png)
 
-## 🔗 Connect with Me 🤝 
+# 🔗 Connect with Me 🤝 
 
 Feel free to connect with me for collaborations or any questions related to Data Analysis
 - **LinkedIn:** [bhaveshkshirsagar](https://www.linkedin.com/in/bhaveshkshirsagar/)  
 - **Email:** bhaveshkshirsagar50@gmail.com
 
-## 💻 GitHub Repository  
+# 💻 GitHub Repository  
 Explore the complete source code of this project on GitHub:  
 
 - [Sales-Data-Analysis-using-Excel-](https://github.com/bhaveshksh/Sales-Data-Analysis-using-Excel-/tree/main)  
