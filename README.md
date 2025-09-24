@@ -94,4 +94,4 @@ Feel free to connect with me for collaborations or any questions related to Data
 ## 💻 GitHub Repository  
 Explore the complete source code of this project on GitHub:  
 
-- [Supply Chain Management]()  
+- [Supply Chain Management](https://github.com/bhaveshksh/Sales-Data-Analysis-using-Excel-/tree/main)  
